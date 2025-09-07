@@ -297,3 +297,7 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,python,jupyternotebooks,dotenv
+
+# Forbidden words
+bad_words.txt
+>>>>>>> 21d88b6 (Fix: rapihin struktur folder project)
